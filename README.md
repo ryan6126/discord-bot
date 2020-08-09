@@ -1,7 +1,3 @@
-# yard-bot
+# DiscordBot
 
-
-if u skid the code ur a faggot on god
-
-
-^^says the biggest skid
+a simple discord bot coded with js
