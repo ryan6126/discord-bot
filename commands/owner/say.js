@@ -3,7 +3,7 @@ module.exports = {
     description: "Let the bot say something",
     category: "owner",
     run: async (client, message, args) => {
-        if (message.author.id !== '618266942288953345') {
+        if (message.author.id !== 'OWNERID') {
             return;
         }
         message.delete();
