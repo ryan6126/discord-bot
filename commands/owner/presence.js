@@ -15,7 +15,7 @@ category: "utils",
 description: "Command description",
 usage: "!status (type)",
 run: (client, message, args) => {
- if (message.author.id !== "618266942288953345") return;
+ if (message.author.id !== "OWNER ID") return;
  let errorembed = new Discord.MessageEmbed()
 .setDescription('<a:OPDenied1:735452761117818940> Not a valid status type.')
 .setColor('#ff0019')
