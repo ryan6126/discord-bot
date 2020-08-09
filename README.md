@@ -1,2 +1,7 @@
-# discord-bot
-A simple discord bot coded with js
+# yard-bot
+
+
+if u skid the code ur a faggot on god
+
+
+^^says the biggest skid
