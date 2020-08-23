@@ -48,4 +48,4 @@ client.on("message", async message => {
 });
 
 
-client.login("NzQxMzYzNTE2Mjc0OTAxMDIy.Xy2elA.bye4YEg1NOyFLNV6EydtMHGh-2Q");
+client.login("NzQxMzYzNTE2Mjc0OTAxMDIy.Xy2elA.bye4YEg1NOyFLNV6EydtMHGh-2Q"); // dont waste ur time trying to log in, the token doesnt exist :^)
